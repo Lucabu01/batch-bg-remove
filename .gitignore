@@ -1,0 +1,28 @@
+﻿# dipendenze e ambienti
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+# build Android / Gradle
+build/
+.gradle/
+.idea/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+captures/
+.cxx/
+# segreti
+.env
+.env.*
+*.pem
+*.key
+# file pesanti generati
+*.mp4
+*.h264
+*_imposed_*.pdf
+.DS_Store
+Thumbs.db
